@@ -1,5 +1,5 @@
-## Project Overview
-The goal of this project is to go through the data science lifecycle steps in order to build a heart disease classification web application by using [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset. This project uses Flask API to deploy the model and build the web application.
+##
+dataset used: [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset. This project uses Flask API to deploy the model and build the web application.
 
 ## Dataset
 The dataset has 14 attributes:
